@@ -35,3 +35,14 @@ In Python, dictionaries are mutable data structures that allow you to store key-
 # Arrays<br>
 In Python, they are containers which are able to store more than one item at the same time.<br>
 We can declare an array like x[100], storing 100 data in x. It is a container that can hold a fixed number of items,and these items should be the same type.<br>
+# Python|end parameter in print():<br>
+Python (end="") Parameter is used for the addition of any string at the end of the output of print().<br>
+## for example:
+print("Maraym", end=" ")<br>
+print("khan", end=" ")<br>
+
+# Python|sep parameter in print():<br>
+In python (sep="") parameter is used to the separation of output by character or string in place of default space value.<br>
+## for example:<br>
+print("ali", "noreen", "uzma", sep="-")<br>
+
