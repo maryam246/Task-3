@@ -44,5 +44,9 @@ print("khan", end=" ")<br>
 # Python|sep parameter in print():<br>
 In python (sep="") parameter is used to the separation of output by character or string in place of default space value.<br>
 ## for example:<br>
-print("ali", "noreen", "uzma", sep="-")<br>
+print("ali", "noreen", "uzma", sep=" ")<br>
+
+# Python|output formating:<br>
+# Vulnerability in input() function python-2x:<br>
+# Python input methods for competitive programming:<br>
 
