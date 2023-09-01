@@ -57,5 +57,5 @@ print(l)
 a =["BMW","Ford","volvo"]
 print(a)
 #Example of dictonary
-d ={'name': 'Alice', 'age': 30, 'city': 'Wonderland'}
+d ={'name': 'Ali', 'age': 30, 'city': 'ISLAMABAD'}
 print(d)
