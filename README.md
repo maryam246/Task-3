@@ -3,6 +3,14 @@
 In Python, you can take input from the user using the input() function.<br>
 As a parameter, we input the text we want to display to the user.<br>
 Once the user presses “enter,” the input value is returned.<br>
+# Taking input from console:<br>
+When we work on project for client.When we take the input from user by the input() function<br> but this function is not enough to print value by console.<br>
+then the question is raise why the console do not print anything?<br>
+This situation occurrs when the console waiting for input and the user dont to know what he<br> <br>can do know,So as a programmer you need to do for user to promot to enter some values.<br>
+# Pthon|output using print() function:<br>
+In python we use print() function to display text on the screen.<br>
+## for example:<br>
+print(“strings”): When the string is passed to the function, the string is displayed as it is.<br>We can use single quotes or double quotes, but make sure they are together.<br>
 # How to print without newline in python?<br>
 In Python, you can print without a newline character by using the (end="") parameter of the print() function.<br>
 By add this '\n' we get the new line so to change this behaviour we use 'end=""' to print without new line.<br>
