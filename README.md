@@ -20,4 +20,18 @@ print("Hello, world!", end="")<br>
 # Introduction to Data Types:<br>
 Python Data Types are used to define the type of a variable. It defines what type of data we are going to store in a variable. The data stored in memory can be of many types. For example, a person's age is stored as a numeric value and his or her address is stored as alphanumeric characters.<br>
 Types of data types:<br>
-String,float,tuple,int,dictonary<br>
+String,float,tuple,int,dictonary,list,bool.<br>
+# String<br>
+String is a collection of alphabets, words or other characters.characters enclosed in single (' ') or double (" ") quotes.<br>
+# List<br>
+Lists are used to store multiple items in a single variable. Examples: [1, 2, 3], ["apple", "banana", "cherry"].List enclosed in parentheses [].<br>
+# Set<br>
+Sets is an unordered collection data type that is iterable, mutable and has no duplicate elements.Set enclosed in parentheses {}.<br>
+# Tuple<br>
+Python Tuple is a collection of objects separated by commas.it is similar to list but it is immutable.Tuple enclosed in parentheses ().<br>
+# dictonary<br>
+In Python, dictionaries are mutable data structures that allow you to store key-value pairs. Dictionary can be created using the dict() constructor or curly braces' {}'. Once you have created a dictionary, you can add, remove, or update elements using the methods dict.<br>
+
+# Arrays<br>
+In Python, they are containers which are able to store more than one item at the same time.<br>
+We can declare an array like x[100], storing 100 data in x. It is a container that can hold a fixed number of items,and these items should be the same type.<br>
