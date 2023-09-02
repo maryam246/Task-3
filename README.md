@@ -56,5 +56,7 @@ In python 3x this problem is fixed you can safely and easily use input() functio
 ## Python input methods for competitive programming:<br>
 In competitive programming,it's important to use input methods that are fast and efficient. In Python, you can use different input methods depending on the problem requirements.<br>
 A bit faster method using inbuilt stdin, stdout: (Python 2.7)<br>
-stdin is a file object 
+1. sys.stdin on the other hand is a File Object. It is like creating any other file object one could create to read input from the file. In this case, the file will be a standard input buffer.<br>
+2. stdout.write(‘D\n’) is faster than print ‘D’.<br>
+3. Even faster is to write all once by stdout.write(“”.join(list-comprehension)) but this makes memory usage dependent on the size of the input.<br>
 
