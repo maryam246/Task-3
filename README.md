@@ -54,4 +54,7 @@ In Python 2.x, there's a potential security problem with the input() function. I
 To avoid this problem in Python 2.x, you should use raw_input() instead using simply input() function.<br>
 In python 3x this problem is fixed you can safely and easily use input() function.<br>
 ## Python input methods for competitive programming:<br>
+In competitive programming,it's important to use input methods that are fast and efficient. In Python, you can use different input methods depending on the problem requirements.<br>
+A bit faster method using inbuilt stdin, stdout: (Python 2.7)<br>
+stdin is a file object 
 
