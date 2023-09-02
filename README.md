@@ -50,5 +50,8 @@ print("ali", "noreen", "uzma", sep=" ")<br>
 In Python, you can format the output of your program in various ways using different techniques.<br>
 In Python, there are several ways to present the output of a program. Data can be printed in a human-readable form, or written to a file for future use, or even in some other specified form.<br>
 ## Vulnerability in input() function python-2x:<br>
+In Python 2.x, there's a potential security problem with the input() function. If you use input() without being careful, it can allow users to enter dangerous commands that can harm your computer or your program.<br>
+To avoid this problem in Python 2.x, you should use raw_input() instead using simply input() function.<br>
+In python 3x this problem is fixed you can safely and easily use input() function.<br>
 ## Python input methods for competitive programming:<br>
 
