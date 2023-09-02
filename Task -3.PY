@@ -15,6 +15,14 @@ print("You entered:", k)
 k = raw_input("Enter a number: ")# it does not run in python 3x
 print("You entered:", k)"""
 
+#Example of Python input methods for competitive programming
+#import inbuilt standard input output
+from sys import stdin, stdout
+# input via readline method
+    k = stdin.readline()
+# array input similar method
+    arr = [int(x) for x in stdin.readline().split()]
+ 
 #Example of To print a newline
 print("MY ", end="")
 print("age ", end="")
