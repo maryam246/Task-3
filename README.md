@@ -47,6 +47,7 @@ In python (sep="") parameter is used to the separation of output by character or
 print("ali", "noreen", "uzma", sep=" ")<br>
 
 ## Python|output formating:<br>
+In Python, you can format the output of your program in various ways using different techniques.<br>
 In Python, there are several ways to present the output of a program. Data can be printed in a human-readable form, or written to a file for future use, or even in some other specified form.<br>
 ## Vulnerability in input() function python-2x:<br>
 ## Python input methods for competitive programming:<br>
