@@ -20,6 +20,8 @@ print("You entered:", k)"""
 from sys import stdin, stdout
 # input via readline method
     k = stdin.readline()
+    10 11 12
+    '10 11 12\n'
 # array input similar method
     arr = [int(x) for x in stdin.readline().split()]
  
