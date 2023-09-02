@@ -59,3 +59,14 @@ print(a)
 #Example of dictonary
 d ={'name': 'Ali', 'age': 30, 'city': 'ISLAMABAD'}
 print(d)
+
+#Example of output formating:
+name = "kiran"
+age = 20
+salary =33000.0
+#Approach 1 by simple print()function
+print(name,age,salary)
+#Approach 2 by % format output %s mean string, %d mean int, %f mean float.
+print("name: %s age: %d salary: %f" %(name,age,salary))#type of data is importanat
+#Approach 3 by dot format/ curly braces{}
+print("name:{} age{} salary{}".format(name,age,salary))#type of the data is not important
